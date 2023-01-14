@@ -2,6 +2,8 @@
 
 jdserialize is a JavaScript port of https://github.com/unsynchronized/jdeserialize with an added object normalizer for easier data interpretation.
 
+Demo it on [good.tools](https://good.tools/java-deserialize).
+
 ## Usage
 
 ```javascript
